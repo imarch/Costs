@@ -10,9 +10,9 @@ open System.Runtime.InteropServices
 [<assembly: AssemblyTitle("Costs.DataAccess")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
-[<assembly: AssemblyCompany("EPAM Systems")>]
+[<assembly: AssemblyCompany("")>]
 [<assembly: AssemblyProduct("Costs.DataAccess")>]
-[<assembly: AssemblyCopyright("Copyright © EPAM Systems 2016")>]
+[<assembly: AssemblyCopyright("")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 

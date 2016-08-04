@@ -10,9 +10,9 @@ open System.Runtime.InteropServices
 [<assembly: AssemblyTitle("Costs.ConsoleApp")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
-[<assembly: AssemblyCompany("EPAM Systems")>]
+[<assembly: AssemblyCompany("")>]
 [<assembly: AssemblyProduct("Costs.ConsoleApp")>]
-[<assembly: AssemblyCopyright("Copyright © EPAM Systems 2016")>]
+[<assembly: AssemblyCopyright("")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 
