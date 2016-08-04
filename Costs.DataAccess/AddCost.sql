@@ -1,0 +1,1 @@
+﻿INSERT INTO CostsInfo VALUES (@price, @cost_type, @message)
